@@ -1,0 +1,2773 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="GPSBabel - https://www.gpsbabel.org">
+  <metadata>
+    <time>2025-12-14T12:01:16.507Z</time>
+    <bounds minlat="20.118572000" minlon="117.978603000" maxlat="42.439787000" maxlon="141.156038000" />
+  </metadata>
+  <wpt lat="36.878532000" lon="129.427063000">
+    <name>해수부_울진_73</name>
+    <cmt>해양수산부 어초 수심:11.8m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:11.8m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.922909000" lon="129.428635000">
+    <name>해수부_울진_74</name>
+    <cmt>해양수산부 어초 수심:15.7m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:15.7m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.900611000" lon="129.428278000">
+    <name>해수부_울진_75</name>
+    <cmt>해양수산부 어초 수심:15.2m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:15.2m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.953139000" lon="129.428694000">
+    <name>해수부_울진_76</name>
+    <cmt>해양수산부 어초 수심:16.6m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:16.6m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.898090000" lon="129.422895000">
+    <name>해수부_울진_77</name>
+    <cmt>해양수산부 어초 수심:7.3m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:7.3m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.805263000" lon="129.470909000">
+    <name>해수부_울진_78</name>
+    <cmt>해양수산부 어초 수심:27m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:27m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.783688000" lon="129.473452000">
+    <name>해수부_울진_79</name>
+    <cmt>해양수산부 어초 수심:11.8m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:11.8m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.824398000" lon="129.456617000">
+    <name>해수부_울진_80</name>
+    <cmt>해양수산부 어초 수심:19m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:19m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.871243000" lon="129.424653000">
+    <name>해수부_울진_81</name>
+    <cmt>해양수산부 어초 수심:12m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:12m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.825084000" lon="129.461685000">
+    <name>해수부_울진_82</name>
+    <cmt>해양수산부 어초 수심:28.5m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:28.5m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.997157000" lon="129.420480000">
+    <name>해수부_울진_83</name>
+    <cmt>해양수산부 어초 수심:5.7m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:5.7m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.870139000" lon="129.437230000">
+    <name>해수부_울진_84</name>
+    <cmt>해양수산부 어초 수심:27.5m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:27.5m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.819232000" lon="129.460994000">
+    <name>해수부_울진_85</name>
+    <cmt>해양수산부 어초 수심:18.9m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:18.9m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.806800000" lon="129.475568000">
+    <name>해수부_울진_86</name>
+    <cmt>해양수산부 어초 수심:38m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:38m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.810210000" lon="129.474433000">
+    <name>해수부_울진_87</name>
+    <cmt>해양수산부 어초 수심:39m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:39m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.865998000" lon="129.439551000">
+    <name>해수부_울진_88</name>
+    <cmt>해양수산부 어초 수심:35m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:35m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.873841000" lon="129.439935000">
+    <name>해수부_울진_89</name>
+    <cmt>해양수산부 어초 수심:31m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:31m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.998871000" lon="129.441699000">
+    <name>해수부_울진_90</name>
+    <cmt>해양수산부 어초 수심:34m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:34m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.996466000" lon="129.432145000">
+    <name>해수부_울진_91</name>
+    <cmt>해양수산부 어초 수심:29m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:29m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.998278000" lon="129.444189000">
+    <name>해수부_울진_92</name>
+    <cmt>해양수산부 어초 수심:42m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:42m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.994690000" lon="129.427927000">
+    <name>해수부_울진_93</name>
+    <cmt>해양수산부 어초 수심:22.5m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:22.5m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.978675000" lon="129.440478000">
+    <name>해수부_울진_94</name>
+    <cmt>해양수산부 어초 수심:45m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:45m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.982808000" lon="129.442217000">
+    <name>해수부_울진_95</name>
+    <cmt>해양수산부 어초 수심:43m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:43m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.904655000" lon="129.424609000">
+    <name>해수부_울진_96</name>
+    <cmt>해양수산부 어초 수심:15.9m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:15.9m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.988274000" lon="129.424510000">
+    <name>해수부_울진_97</name>
+    <cmt>해양수산부 어초 수심:11.4m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:11.4m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.975834000" lon="129.435740000">
+    <name>해수부_울진_98</name>
+    <cmt>해양수산부 어초 수심:34m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:34m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.907280000" lon="129.427471000">
+    <name>해수부_울진_99</name>
+    <cmt>해양수산부 어초 수심:16m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:16m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.204345000" lon="129.379899000">
+    <name>해수부_영덕_103</name>
+    <cmt>해양수산부 어초 수심:9.4m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:9.4m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.385496000" lon="129.415721000">
+    <name>해수부_영덕_104</name>
+    <cmt>해양수산부 어초 수심:20.7m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:20.7m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.475498000" lon="129.445314000">
+    <name>해수부_영덕_105</name>
+    <cmt>해양수산부 어초 수심:28m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:28m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.484389000" lon="129.448322000">
+    <name>해수부_영덕_106</name>
+    <cmt>해양수산부 어초 수심:26m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:26m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.421536000" lon="129.446630000">
+    <name>해수부_영덕_107</name>
+    <cmt>해양수산부 어초 수심:57m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:57m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.381022000" lon="129.418692000">
+    <name>해수부_영덕_108</name>
+    <cmt>해양수산부 어초 수심:39m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:39m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.351914000" lon="129.410225000">
+    <name>해수부_영덕_109</name>
+    <cmt>해양수산부 어초 수심:53m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:53m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.444911000" lon="129.446751000">
+    <name>해수부_영덕_110</name>
+    <cmt>해양수산부 어초 수심:34m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:34m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.462759000" lon="129.445573000">
+    <name>해수부_영덕_111</name>
+    <cmt>해양수산부 어초 수심:33m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:33m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.392397000" lon="129.433017000">
+    <name>해수부_영덕_112</name>
+    <cmt>해양수산부 어초 수심:63m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:63m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.208162000" lon="129.409018000">
+    <name>해수부_영덕_113</name>
+    <cmt>해양수산부 어초 수심:29.5m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:29.5m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.299541000" lon="129.387915000">
+    <name>해수부_영덕_114</name>
+    <cmt>해양수산부 어초 수심:20.2m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:20.2m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.334729000" lon="129.386459000">
+    <name>해수부_영덕_115</name>
+    <cmt>해양수산부 어초 수심:12.7m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:12.7m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.345703000" lon="129.396751000">
+    <name>해수부_영덕_116</name>
+    <cmt>해양수산부 어초 수심:22.5m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:22.5m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.357188000" lon="129.394778000">
+    <name>해수부_영덕_117</name>
+    <cmt>해양수산부 어초 수심:9.5m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:9.5m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.351765000" lon="129.391937000">
+    <name>해수부_영덕_118</name>
+    <cmt>해양수산부 어초 수심:8.8m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:8.8m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.347850000" lon="129.391322000">
+    <name>해수부_영덕_119</name>
+    <cmt>해양수산부 어초 수심:9.3m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:9.3m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.512199000" lon="129.452301000">
+    <name>해수부_울진_120</name>
+    <cmt>해양수산부 어초 수심:4.7m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:4.7m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.657019000" lon="129.443041000">
+    <name>해수부_울진_121</name>
+    <cmt>해양수산부 어초 수심:24.5m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:24.5m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.661676000" lon="129.440908000">
+    <name>해수부_울진_122</name>
+    <cmt>해양수산부 어초 수심:19.8m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:19.8m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.520517000" lon="129.449975000">
+    <name>해수부_울진_123</name>
+    <cmt>해양수산부 어초 수심:22.1m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:22.1m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.548385000" lon="129.449692000">
+    <name>해수부_울진_124</name>
+    <cmt>해양수산부 어초 수심:28.6m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:28.6m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.676173000" lon="129.468471000">
+    <name>해수부_울진_125</name>
+    <cmt>해양수산부 어초 수심:15.4m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:15.4m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.688368000" lon="129.474834000">
+    <name>해수부_울진_126</name>
+    <cmt>해양수산부 어초 수심:15.3m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:15.3m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.500301000" lon="129.454037000">
+    <name>해수부_울진_127</name>
+    <cmt>해양수산부 어초 수심:18.7m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:18.7m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.662622000" lon="129.470070000">
+    <name>해수부_울진_128</name>
+    <cmt>해양수산부 어초 수심:32m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:32m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.590232000" lon="129.423043000">
+    <name>해수부_울진_129</name>
+    <cmt>해양수산부 어초 수심:21m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:21m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.593105000" lon="129.436360000">
+    <name>해수부_울진_130</name>
+    <cmt>해양수산부 어초 수심:40m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:40m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.597958000" lon="129.441508000">
+    <name>해수부_울진_131</name>
+    <cmt>해양수산부 어초 수심:47m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:47m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.584436000" lon="129.443123000">
+    <name>해수부_울진_132</name>
+    <cmt>해양수산부 어초 수심:46m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:46m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.622904000" lon="129.419389000">
+    <name>해수부_울진_133</name>
+    <cmt>해양수산부 어초 수심:11.1m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:11.1m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.664545000" lon="129.454600000">
+    <name>해수부_울진_134</name>
+    <cmt>해양수산부 어초 수심:27m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:27m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.623650000" lon="129.437305000">
+    <name>해수부_울진_135</name>
+    <cmt>해양수산부 어초 수심:35m (해도:KR4G1N10)</cmt>
+    <desc>해양수산부 어초 수심:35m (해도:KR4G1N10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.055751000" lon="129.380665000">
+    <name>해수부_영덕_136</name>
+    <cmt>해양수산부 어초 수심:3.2m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:3.2m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.056203000" lon="129.507817000">
+    <name>해수부_울릉도_독도_137</name>
+    <cmt>해양수산부 어초 수심:10.2m (해도:KR4G1N40)</cmt>
+    <desc>해양수산부 어초 수심:10.2m (해도:KR4G1N40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.015552000" lon="129.409646000">
+    <name>해수부_영덕_138</name>
+    <cmt>해양수산부 어초 수심:6.9m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:6.9m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.005395000" lon="129.436322000">
+    <name>해수부_영덕_139</name>
+    <cmt>해양수산부 어초 수심:10m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:10m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.066141000" lon="129.414368000">
+    <name>해수부_영덕_140</name>
+    <cmt>해양수산부 어초 수심:7.7m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:7.7m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.068303000" lon="129.407906000">
+    <name>해수부_영덕_141</name>
+    <cmt>해양수산부 어초 수심:4.9m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:4.9m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.071530000" lon="129.421621000">
+    <name>해수부_영덕_142</name>
+    <cmt>해양수산부 어초 수심:7.2m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:7.2m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.086831000" lon="129.425891000">
+    <name>해수부_영덕_143</name>
+    <cmt>해양수산부 어초 수심:9.6m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:9.6m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.082269000" lon="129.439158000">
+    <name>해수부_영덕_144</name>
+    <cmt>해양수산부 어초 수심:20m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:20m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.061512000" lon="129.399250000">
+    <name>해수부_영덕_145</name>
+    <cmt>해양수산부 어초 수심:4.8m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:4.8m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.090063000" lon="129.425050000">
+    <name>해수부_영덕_146</name>
+    <cmt>해양수산부 어초 수심:4.8m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:4.8m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.101046000" lon="129.463491000">
+    <name>해수부_영덕_147</name>
+    <cmt>해양수산부 어초 수심:18.8m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:18.8m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.048030000" lon="129.395682000">
+    <name>해수부_영덕_148</name>
+    <cmt>해양수산부 어초 수심:9.3m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:9.3m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.039815000" lon="129.400932000">
+    <name>해수부_영덕_149</name>
+    <cmt>해양수산부 어초 수심:9.7m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:9.7m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.036428000" lon="129.497176000">
+    <name>해수부_영덕_150</name>
+    <cmt>해양수산부 어초 수심:5.3m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:5.3m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.078807000" lon="129.423023000">
+    <name>해수부_영덕_151</name>
+    <cmt>해양수산부 어초 수심:3.9m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:3.9m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.090006000" lon="129.436270000">
+    <name>해수부_영덕_152</name>
+    <cmt>해양수산부 어초 수심:14.3m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:14.3m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.059783000" lon="129.393529000">
+    <name>해수부_영덕_153</name>
+    <cmt>해양수산부 어초 수심:4.2m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:4.2m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.122240000" lon="129.460370000">
+    <name>해수부_영덕_154</name>
+    <cmt>해양수산부 어초 수심:24m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:24m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.091515000" lon="129.432051000">
+    <name>해수부_영덕_155</name>
+    <cmt>해양수산부 어초 수심:4.2m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:4.2m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.088352000" lon="129.435610000">
+    <name>해수부_영덕_156</name>
+    <cmt>해양수산부 어초 수심:15.7m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:15.7m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.101895000" lon="129.474158000">
+    <name>해수부_영덕_157</name>
+    <cmt>해양수산부 어초 수심:21.5m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:21.5m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.123886000" lon="129.435061000">
+    <name>해수부_영덕_158</name>
+    <cmt>해양수산부 어초 수심:3.8m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:3.8m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.106923000" lon="129.450683000">
+    <name>해수부_영덕_159</name>
+    <cmt>해양수산부 어초 수심:17.7m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:17.7m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.079872000" lon="129.428816000">
+    <name>해수부_영덕_160</name>
+    <cmt>해양수산부 어초 수심:13m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:13m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.110471000" lon="129.451083000">
+    <name>해수부_영덕_161</name>
+    <cmt>해양수산부 어초 수심:16.7m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:16.7m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.077408000" lon="129.430358000">
+    <name>해수부_영덕_162</name>
+    <cmt>해양수산부 어초 수심:11.4m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:11.4m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.133105000" lon="129.450362000">
+    <name>해수부_영덕_163</name>
+    <cmt>해양수산부 어초 수심:19.8m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:19.8m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.094546000" lon="129.462032000">
+    <name>해수부_영덕_164</name>
+    <cmt>해양수산부 어초 수심:21m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:21m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.112391000" lon="129.441607000">
+    <name>해수부_영덕_165</name>
+    <cmt>해양수산부 어초 수심:14.3m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:14.3m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.043837000" lon="129.391921000">
+    <name>해수부_영덕_166</name>
+    <cmt>해양수산부 어초 수심:8.1m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:8.1m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.137977000" lon="129.406535000">
+    <name>해수부_영덕_167</name>
+    <cmt>해양수산부 어초 수심:10.4m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:10.4m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.086081000" lon="129.569682000">
+    <name>해수부_울릉도_독도_168</name>
+    <cmt>해양수산부 어초 수심:19.4m (해도:KR4G1N40)</cmt>
+    <desc>해양수산부 어초 수심:19.4m (해도:KR4G1N40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.008802000" lon="129.582032000">
+    <name>해수부_울릉도_독도_169</name>
+    <cmt>해양수산부 어초 수심:5.7m (해도:KR4G1N40)</cmt>
+    <desc>해양수산부 어초 수심:5.7m (해도:KR4G1N40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.072885000" lon="129.583393000">
+    <name>해수부_울릉도_독도_170</name>
+    <cmt>해양수산부 어초 수심:23m (해도:KR4G1N40)</cmt>
+    <desc>해양수산부 어초 수심:23m (해도:KR4G1N40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.026458000" lon="129.582666000">
+    <name>해수부_울릉도_독도_171</name>
+    <cmt>해양수산부 어초 수심:1.6m (해도:KR4G1N40)</cmt>
+    <desc>해양수산부 어초 수심:1.6m (해도:KR4G1N40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.172607000" lon="129.435568000">
+    <name>해수부_영덕_172</name>
+    <cmt>해양수산부 어초 수심:27.5m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:27.5m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.160116000" lon="129.416922000">
+    <name>해수부_영덕_173</name>
+    <cmt>해양수산부 어초 수심:16.5m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:16.5m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="36.192834000" lon="129.383145000">
+    <name>해수부_영덕_174</name>
+    <cmt>해양수산부 어초 수심:9.3m (해도:KR4G1N30)</cmt>
+    <desc>해양수산부 어초 수심:9.3m (해도:KR4G1N30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.788116000" lon="129.502276000">
+    <name>해수부_울릉도_독도_175</name>
+    <cmt>해양수산부 어초 수심:10.8m (해도:KR4G3B20)</cmt>
+    <desc>해양수산부 어초 수심:10.8m (해도:KR4G3B20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.875922000" lon="129.524250000">
+    <name>해수부_울릉도_독도_176</name>
+    <cmt>해양수산부 어초 수심:11m (해도:KR4G3B20)</cmt>
+    <desc>해양수산부 어초 수심:11m (해도:KR4G3B20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.817947000" lon="129.546767000">
+    <name>해수부_울릉도_독도_177</name>
+    <cmt>해양수산부 어초 수심:44m (해도:KR4G3B20)</cmt>
+    <desc>해양수산부 어초 수심:44m (해도:KR4G3B20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.886820000" lon="129.551453000">
+    <name>해수부_울릉도_독도_178</name>
+    <cmt>해양수산부 어초 수심:43m (해도:KR4G3B20)</cmt>
+    <desc>해양수산부 어초 수심:43m (해도:KR4G3B20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.970055000" lon="129.558641000">
+    <name>해수부_울릉도_독도_179</name>
+    <cmt>해양수산부 어초 수심:8.7m (해도:KR4G3B20)</cmt>
+    <desc>해양수산부 어초 수심:8.7m (해도:KR4G3B20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.930037000" lon="129.527372000">
+    <name>해수부_울릉도_독도_180</name>
+    <cmt>해양수산부 어초 수심:8.4m (해도:KR4G3B20)</cmt>
+    <desc>해양수산부 어초 수심:8.4m (해도:KR4G3B20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.802744000" lon="129.512049000">
+    <name>해수부_울릉도_독도_181</name>
+    <cmt>해양수산부 어초 수심:15.8m (해도:KR4G3B20)</cmt>
+    <desc>해양수산부 어초 수심:15.8m (해도:KR4G3B20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.999231000" lon="129.591048000">
+    <name>해수부_울릉도_독도_182</name>
+    <cmt>해양수산부 어초 수심:36m (해도:KR4G3B20)</cmt>
+    <desc>해양수산부 어초 수심:36m (해도:KR4G3B20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.718372000" lon="129.485836000">
+    <name>해수부_포항_183</name>
+    <cmt>해양수산부 어초 수심:6.3m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:6.3m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.732705000" lon="129.490511000">
+    <name>해수부_포항_184</name>
+    <cmt>해양수산부 어초 수심:11.4m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:11.4m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.636976000" lon="129.486528000">
+    <name>해수부_포항_185</name>
+    <cmt>해양수산부 어초 수심:24.5m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:24.5m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.700398000" lon="129.480686000">
+    <name>해수부_포항_186</name>
+    <cmt>해양수산부 어초 수심:14.7m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:14.7m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.733801000" lon="129.488307000">
+    <name>해수부_포항_187</name>
+    <cmt>해양수산부 어초 수심:7.1m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:7.1m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.623500000" lon="129.464280000">
+    <name>해수부_포항_188</name>
+    <cmt>해양수산부 어초 수심:17.4m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:17.4m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.644055000" lon="129.467720000">
+    <name>해수부_포항_189</name>
+    <cmt>해양수산부 어초 수심:16m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:16m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.696333000" lon="129.484028000">
+    <name>해수부_포항_190</name>
+    <cmt>해양수산부 어초 수심:15.4m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:15.4m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.488871000" lon="129.445092000">
+    <name>해수부_경주_191</name>
+    <cmt>해양수산부 어초 수심:23m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:23m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.400322000" lon="129.363318000">
+    <name>해수부_경주_192</name>
+    <cmt>해양수산부 어초 수심:19.3m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:19.3m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.465004000" lon="129.401783000">
+    <name>해수부_경주_193</name>
+    <cmt>해양수산부 어초 수심:21.5m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:21.5m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.396633000" lon="129.372271000">
+    <name>해수부_경주_194</name>
+    <cmt>해양수산부 어초 수심:18.4m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:18.4m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.499829000" lon="129.465078000">
+    <name>해수부_경주_195</name>
+    <cmt>해양수산부 어초 수심:41m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:41m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.438860000" lon="129.388832000">
+    <name>해수부_경주_196</name>
+    <cmt>해양수산부 어초 수심:24.5m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:24.5m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.474456000" lon="129.425912000">
+    <name>해수부_경주_197</name>
+    <cmt>해양수산부 어초 수심:18.3m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:18.3m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.390901000" lon="129.368573000">
+    <name>해수부_경주_198</name>
+    <cmt>해양수산부 어초 수심:25m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:25m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.446998000" lon="129.396428000">
+    <name>해수부_경주_199</name>
+    <cmt>해양수산부 어초 수심:24m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:24m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.366420000" lon="129.377041000">
+    <name>해수부_경주_200</name>
+    <cmt>해양수산부 어초 수심:24m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:24m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.413106000" lon="129.382438000">
+    <name>해수부_경주_201</name>
+    <cmt>해양수산부 어초 수심:27m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:27m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.496957000" lon="129.459796000">
+    <name>해수부_경주_202</name>
+    <cmt>해양수산부 어초 수심:49m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:49m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.485132000" lon="129.446609000">
+    <name>해수부_경주_203</name>
+    <cmt>해양수산부 어초 수심:31m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:31m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.363778000" lon="129.383592000">
+    <name>해수부_경주_204</name>
+    <cmt>해양수산부 어초 수심:34m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:34m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.462901000" lon="129.469123000">
+    <name>해수부_경주_205</name>
+    <cmt>해양수산부 어초 수심:70m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:70m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.454543000" lon="129.393255000">
+    <name>해수부_경주_206</name>
+    <cmt>해양수산부 어초 수심:22.9m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:22.9m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.369681000" lon="129.374401000">
+    <name>해수부_경주_207</name>
+    <cmt>해양수산부 어초 수심:33m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:33m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.368065000" lon="129.358507000">
+    <name>해수부_경주_208</name>
+    <cmt>해양수산부 어초 수심:5.9m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:5.9m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.476012000" lon="129.422207000">
+    <name>해수부_경주_209</name>
+    <cmt>해양수산부 어초 수심:15.1m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:15.1m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.546861000" lon="129.461485000">
+    <name>해수부_경주_210</name>
+    <cmt>해양수산부 어초 수심:11.4m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:11.4m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.541195000" lon="129.460690000">
+    <name>해수부_경주_211</name>
+    <cmt>해양수산부 어초 수심:17m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:17m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.263118000" lon="129.243162000">
+    <name>해수부_울산_212</name>
+    <cmt>해양수산부 어초 (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.213737000" lon="129.247715000">
+    <name>해수부_울산_214</name>
+    <cmt>해양수산부 어초 수심:28m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:28m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.175236000" lon="129.224979000">
+    <name>해수부_울산_215</name>
+    <cmt>해양수산부 어초 수심:26m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:26m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.125614000" lon="129.175023000">
+    <name>해수부_울산_216</name>
+    <cmt>해양수산부 어초 수심:30m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:30m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.178419000" lon="129.228305000">
+    <name>해수부_울산_217</name>
+    <cmt>해양수산부 어초 수심:26.5m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:26.5m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.183387000" lon="129.232378000">
+    <name>해수부_울산_218</name>
+    <cmt>해양수산부 어초 수심:27.5m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:27.5m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.197171000" lon="129.239075000">
+    <name>해수부_울산_219</name>
+    <cmt>해양수산부 어초 수심:30.5m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:30.5m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.211945000" lon="129.261382000">
+    <name>해수부_울산_220</name>
+    <cmt>해양수산부 어초 수심:40m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:40m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.233284000" lon="129.318740000">
+    <name>해수부_울산_221</name>
+    <cmt>해양수산부 어초 수심:64m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:64m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.286540000" lon="129.452136000">
+    <name>해수부_울산_222</name>
+    <cmt>해양수산부 어초 수심:97m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:97m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.118019000" lon="129.172667000">
+    <name>해수부_울산_223</name>
+    <cmt>해양수산부 어초 수심:36m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:36m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.153776000" lon="129.176086000">
+    <name>해수부_울산_224</name>
+    <cmt>해양수산부 어초 수심:8.1m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:8.1m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.157480000" lon="129.190428000">
+    <name>해수부_울산_225</name>
+    <cmt>해양수산부 어초 수심:4.7m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:4.7m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.359147000" lon="129.370657000">
+    <name>해수부_경주_226</name>
+    <cmt>해양수산부 어초 수심:14.6m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:14.6m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.310743000" lon="129.263656000">
+    <name>해수부_경주_227</name>
+    <cmt>해양수산부 어초 수심:3.4m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:3.4m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.347685000" lon="129.342909000">
+    <name>해수부_경주_228</name>
+    <cmt>해양수산부 어초 수심:15.8m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:15.8m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.260903000" lon="129.248033000">
+    <name>해수부_울산_229</name>
+    <cmt>해양수산부 어초 (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.353552000" lon="129.360287000">
+    <name>해수부_경주_230</name>
+    <cmt>해양수산부 어초 (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.351776000" lon="129.350026000">
+    <name>해수부_경주_231</name>
+    <cmt>해양수산부 어초 (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.324385000" lon="129.322583000">
+    <name>해수부_경주_232</name>
+    <cmt>해양수산부 어초 수심:32m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:32m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.318473000" lon="129.314734000">
+    <name>해수부_경주_233</name>
+    <cmt>해양수산부 어초 수심:35m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:35m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.556481000" lon="129.475466000">
+    <name>해수부_경주_234</name>
+    <cmt>해양수산부 어초 수심:32m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:32m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.549294000" lon="129.474878000">
+    <name>해수부_경주_235</name>
+    <cmt>해양수산부 어초 수심:34m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:34m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.552850000" lon="129.474875000">
+    <name>해수부_경주_236</name>
+    <cmt>해양수산부 어초 수심:33m (해도:KR4G3B10)</cmt>
+    <desc>해양수산부 어초 수심:33m (해도:KR4G3B10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.904341000" lon="127.697079000">
+    <name>해수부_남해_여수_816</name>
+    <cmt>해양수산부 어초 수심:8.5m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:8.5m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.874503000" lon="127.755406000">
+    <name>해수부_남해_여수_817</name>
+    <cmt>해양수산부 어초 수심:3.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.931511000" lon="127.818278000">
+    <name>해수부_남해_여수_818</name>
+    <cmt>해양수산부 어초 수심:9.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:9.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.853969000" lon="127.806015000">
+    <name>해수부_남해_여수_819</name>
+    <cmt>해양수산부 어초 수심:8.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:8.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.875357000" lon="127.814320000">
+    <name>해수부_남해_여수_820</name>
+    <cmt>해양수산부 어초 수심:3.1m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3.1m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.872278000" lon="127.736084000">
+    <name>해수부_남해_여수_821</name>
+    <cmt>해양수산부 어초 수심:1.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:1.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.940637000" lon="127.844611000">
+    <name>해수부_남해_여수_822</name>
+    <cmt>해양수산부 어초 수심:12.4m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:12.4m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.894473000" lon="127.671692000">
+    <name>해수부_남해_여수_823</name>
+    <cmt>해양수산부 어초 수심:3.1m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3.1m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.889828000" lon="127.680710000">
+    <name>해수부_남해_여수_824</name>
+    <cmt>해양수산부 어초 수심:5.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:5.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.864449000" lon="127.682836000">
+    <name>해수부_남해_여수_825</name>
+    <cmt>해양수산부 어초 수심:4.6m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:4.6m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.870651000" lon="127.635173000">
+    <name>해수부_남해_여수_826</name>
+    <cmt>해양수산부 어초 수심:0.4m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:0.4m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.867815000" lon="127.650006000">
+    <name>해수부_남해_여수_827</name>
+    <cmt>해양수산부 어초 수심:0.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:0.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.878819000" lon="127.677409000">
+    <name>해수부_남해_여수_828</name>
+    <cmt>해양수산부 어초 수심:3.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.879419000" lon="127.654835000">
+    <name>해수부_남해_여수_829</name>
+    <cmt>해양수산부 어초 수심:3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.906804000" lon="127.603222000">
+    <name>해수부_남해_여수_830</name>
+    <cmt>해양수산부 어초 수심:5.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:5.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.882735000" lon="127.671071000">
+    <name>해수부_남해_여수_831</name>
+    <cmt>해양수산부 어초 수심:1.2m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:1.2m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.873900000" lon="127.666068000">
+    <name>해수부_남해_여수_832</name>
+    <cmt>해양수산부 어초 수심:1.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:1.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.728100000" lon="127.843730000">
+    <name>해수부_남해_여수_833</name>
+    <cmt>해양수산부 어초 수심:24m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:24m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.700244000" lon="127.782668000">
+    <name>해수부_남해_여수_834</name>
+    <cmt>해양수산부 어초 수심:2m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:2m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.701712000" lon="127.792697000">
+    <name>해수부_남해_여수_835</name>
+    <cmt>해양수산부 어초 수심:13m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:13m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.598405000" lon="127.807901000">
+    <name>해수부_남해_여수_836</name>
+    <cmt>해양수산부 어초 수심:13.4m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:13.4m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.687429000" lon="127.787459000">
+    <name>해수부_남해_여수_837</name>
+    <cmt>해양수산부 어초 수심:5.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:5.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.642347000" lon="127.799347000">
+    <name>해수부_남해_여수_838</name>
+    <cmt>해양수산부 어초 수심:12.4m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:12.4m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.644274000" lon="127.818674000">
+    <name>해수부_남해_여수_839</name>
+    <cmt>해양수산부 어초 수심:13.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:13.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.601822000" lon="127.805751000">
+    <name>해수부_남해_여수_840</name>
+    <cmt>해양수산부 어초 수심:14m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:14m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.671716000" lon="127.788815000">
+    <name>해수부_남해_여수_841</name>
+    <cmt>해양수산부 어초 수심:4.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:4.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.702377000" lon="127.772487000">
+    <name>해수부_남해_여수_842</name>
+    <cmt>해양수산부 어초 수심:0.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:0.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.752212000" lon="127.767501000">
+    <name>해수부_남해_여수_843</name>
+    <cmt>해양수산부 어초 수심:5.1m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:5.1m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.709328000" lon="127.746362000">
+    <name>해수부_남해_여수_844</name>
+    <cmt>해양수산부 어초 수심:4.6m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:4.6m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.713051000" lon="127.740973000">
+    <name>해수부_남해_여수_845</name>
+    <cmt>해양수산부 어초 수심:5.1m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:5.1m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.720028000" lon="127.731145000">
+    <name>해수부_남해_여수_846</name>
+    <cmt>해양수산부 어초 수심:6.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:6.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.762481000" lon="127.944974000">
+    <name>해수부_남해_여수_847</name>
+    <cmt>해양수산부 어초 수심:4.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:4.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.716622000" lon="127.928165000">
+    <name>해수부_남해_여수_848</name>
+    <cmt>해양수산부 어초 수심:18.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:18.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.771792000" lon="127.940612000">
+    <name>해수부_남해_여수_849</name>
+    <cmt>해양수산부 어초 수심:4.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:4.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.584624000" lon="127.799660000">
+    <name>해수부_남해_여수_850</name>
+    <cmt>해양수산부 어초 수심:11.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:11.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.590082000" lon="127.808440000">
+    <name>해수부_남해_여수_851</name>
+    <cmt>해양수산부 어초 수심:15.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:15.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.914879000" lon="127.997337000">
+    <name>해수부_남해_여수_852</name>
+    <cmt>해양수산부 어초 수심:5.6m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:5.6m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.525968000" lon="127.712147000">
+    <name>해수부_남해_여수_853</name>
+    <cmt>해양수산부 어초 수심:15.5m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:15.5m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.724649000" lon="127.945564000">
+    <name>해수부_남해_여수_854</name>
+    <cmt>해양수산부 어초 수심:15.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:15.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.552556000" lon="127.736639000">
+    <name>해수부_남해_여수_855</name>
+    <cmt>해양수산부 어초 수심:1.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:1.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.722871000" lon="127.950983000">
+    <name>해수부_남해_여수_856</name>
+    <cmt>해양수산부 어초 수심:13m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:13m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.586670000" lon="127.807408000">
+    <name>해수부_남해_여수_857</name>
+    <cmt>해양수산부 어초 수심:17.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:17.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.541293000" lon="127.771791000">
+    <name>해수부_남해_여수_858</name>
+    <cmt>해양수산부 어초 수심:13.6m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:13.6m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.538936000" lon="127.777551000">
+    <name>해수부_남해_여수_859</name>
+    <cmt>해양수산부 어초 수심:13.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:13.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.762991000" lon="127.931041000">
+    <name>해수부_남해_여수_860</name>
+    <cmt>해양수산부 어초 수심:5.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:5.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.589399000" lon="127.765216000">
+    <name>해수부_남해_여수_861</name>
+    <cmt>해양수산부 어초 수심:4.6m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:4.6m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.763054000" lon="127.921291000">
+    <name>해수부_남해_여수_862</name>
+    <cmt>해양수산부 어초 수심:6.5m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:6.5m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.568877000" lon="127.753268000">
+    <name>해수부_남해_여수_863</name>
+    <cmt>해양수산부 어초 수심:17.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:17.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.719975000" lon="127.891019000">
+    <name>해수부_남해_여수_864</name>
+    <cmt>해양수산부 어초 수심:16.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:16.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.750917000" lon="127.944750000">
+    <name>해수부_남해_여수_865</name>
+    <cmt>해양수산부 어초 수심:3.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.733006000" lon="127.648927000">
+    <name>해수부_남해_여수_866</name>
+    <cmt>해양수산부 어초 수심:0.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:0.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.604419000" lon="127.656279000">
+    <name>해수부_남해_여수_867</name>
+    <cmt>해양수산부 어초 수심:2.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:2.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.591144000" lon="127.565263000">
+    <name>해수부_남해_여수_868</name>
+    <cmt>해양수산부 어초 수심:6.4m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:6.4m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.587717000" lon="127.535523000">
+    <name>해수부_남해_여수_869</name>
+    <cmt>해양수산부 어초 수심:18.2m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:18.2m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.594664000" lon="127.540475000">
+    <name>해수부_남해_여수_870</name>
+    <cmt>해양수산부 어초 수심:7.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:7.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.636094000" lon="127.532622000">
+    <name>해수부_남해_여수_871</name>
+    <cmt>해양수산부 어초 수심:23.5m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:23.5m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.641651000" lon="127.511724000">
+    <name>해수부_남해_여수_872</name>
+    <cmt>해양수산부 어초 수심:3.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.639278000" lon="127.510694000">
+    <name>해수부_남해_여수_873</name>
+    <cmt>해양수산부 어초 수심:4.6m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:4.6m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.637417000" lon="127.504806000">
+    <name>해수부_남해_여수_874</name>
+    <cmt>해양수산부 어초 수심:19.2m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:19.2m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.752182000" lon="127.908446000">
+    <name>해수부_남해_여수_875</name>
+    <cmt>해양수산부 어초 수심:3.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.564694000" lon="127.719722000">
+    <name>해수부_남해_여수_876</name>
+    <cmt>해양수산부 어초 수심:10.2m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:10.2m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.753333000" lon="127.524680000">
+    <name>해수부_남해_여수_877</name>
+    <cmt>해양수산부 어초 수심:5.3m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:5.3m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.757530000" lon="127.504123000">
+    <name>해수부_남해_여수_878</name>
+    <cmt>해양수산부 어초 수심:0.1m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:0.1m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.754322000" lon="127.506537000">
+    <name>해수부_남해_여수_879</name>
+    <cmt>해양수산부 어초 수심:1.2m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:1.2m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.954642000" lon="127.906720000">
+    <name>해수부_남해_여수_880</name>
+    <cmt>해양수산부 어초 수심:18.2m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:18.2m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.607270000" lon="127.587963000">
+    <name>해수부_남해_여수_881</name>
+    <cmt>해양수산부 어초 수심:12.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:12.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.595561000" lon="127.545683000">
+    <name>해수부_남해_여수_882</name>
+    <cmt>해양수산부 어초 수심:3.8m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:3.8m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.609933000" lon="127.589743000">
+    <name>해수부_남해_여수_883</name>
+    <cmt>해양수산부 어초 수심:9.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:9.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.577514000" lon="127.502972000">
+    <name>해수부_남해_여수_884</name>
+    <cmt>해양수산부 어초 수심:7.7m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:7.7m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.563889000" lon="127.641583000">
+    <name>해수부_남해_여수_885</name>
+    <cmt>해양수산부 어초 수심:-1.1m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:-1.1m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.944116000" lon="127.925481000">
+    <name>해수부_남해_여수_886</name>
+    <cmt>해양수산부 어초 수심:15.5m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:15.5m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.556610000" lon="127.755273000">
+    <name>해수부_남해_여수_887</name>
+    <cmt>해양수산부 어초 수심:36m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:36m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.703523000" lon="127.967307000">
+    <name>해수부_남해_여수_888</name>
+    <cmt>해양수산부 어초 수심:25.5m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:25.5m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.945203000" lon="128.012582000">
+    <name>해수부_부산_889</name>
+    <cmt>해양수산부 어초 수심:18.4m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:18.4m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.059175000" lon="128.622042000">
+    <name>해수부_울산_907</name>
+    <cmt>해양수산부 어초 수심:10.1m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:10.1m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.988080000" lon="128.590654000">
+    <name>해수부_부산_908</name>
+    <cmt>해양수산부 어초 수심:19.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:19.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.994437000" lon="128.605375000">
+    <name>해수부_부산_909</name>
+    <cmt>해양수산부 어초 수심:16.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:16.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.988339000" lon="128.604086000">
+    <name>해수부_부산_910</name>
+    <cmt>해양수산부 어초 수심:8.8m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:8.8m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.066188000" lon="128.710124000">
+    <name>해수부_울산_911</name>
+    <cmt>해양수산부 어초 수심:0.1m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:0.1m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.058755000" lon="128.672822000">
+    <name>해수부_울산_912</name>
+    <cmt>해양수산부 어초 수심:1.9m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:1.9m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.141076000" lon="128.686433000">
+    <name>해수부_울산_913</name>
+    <cmt>해양수산부 어초 수심:3.8m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:3.8m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.022162000" lon="128.730251000">
+    <name>해수부_울산_914</name>
+    <cmt>해양수산부 어초 수심:14.2m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:14.2m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.099352000" lon="128.639489000">
+    <name>해수부_울산_915</name>
+    <cmt>해양수산부 어초 수심:8.8m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:8.8m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.154974000" lon="128.606595000">
+    <name>해수부_울산_916</name>
+    <cmt>해양수산부 어초 수심:7.5m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:7.5m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.809124000" lon="128.704877000">
+    <name>해수부_부산_917</name>
+    <cmt>해양수산부 어초 수심:7.2m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:7.2m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.721448000" lon="128.655185000">
+    <name>해수부_동부_918</name>
+    <cmt>해양수산부 어초 수심:25.3m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:25.3m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.754259000" lon="128.704182000">
+    <name>해수부_동부_919</name>
+    <cmt>해양수산부 어초 수심:30m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:30m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.733695000" lon="128.661174000">
+    <name>해수부_동부_920</name>
+    <cmt>해양수산부 어초 수심:27m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:27m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.810364000" lon="128.678807000">
+    <name>해수부_부산_921</name>
+    <cmt>해양수산부 어초 수심:3.8m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:3.8m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.792110000" lon="128.717270000">
+    <name>해수부_동부_922</name>
+    <cmt>해양수산부 어초 수심:6.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:6.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.766734000" lon="128.659454000">
+    <name>해수부_동부_923</name>
+    <cmt>해양수산부 어초 수심:20m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:20m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.757710000" lon="128.720361000">
+    <name>해수부_동부_924</name>
+    <cmt>해양수산부 어초 수심:51m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:51m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.798295000" lon="128.742291000">
+    <name>해수부_동부_925</name>
+    <cmt>해양수산부 어초 수심:38m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:38m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.846821000" lon="128.750661000">
+    <name>해수부_부산_926</name>
+    <cmt>해양수산부 어초 수심:23.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:23.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.792948000" lon="128.688267000">
+    <name>해수부_동부_927</name>
+    <cmt>해양수산부 어초 수심:17.8m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:17.8m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.795794000" lon="128.740657000">
+    <name>해수부_동부_928</name>
+    <cmt>해양수산부 어초 수심:26m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:26m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.840150000" lon="128.705686000">
+    <name>해수부_부산_929</name>
+    <cmt>해양수산부 어초 수심:7.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:7.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.796633000" lon="128.685354000">
+    <name>해수부_동부_930</name>
+    <cmt>해양수산부 어초 수심:12.6m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:12.6m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.762770000" lon="128.721960000">
+    <name>해수부_동부_931</name>
+    <cmt>해양수산부 어초 수심:46m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:46m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.775031000" lon="128.665775000">
+    <name>해수부_동부_932</name>
+    <cmt>해양수산부 어초 수심:19.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:19.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.847158000" lon="128.737826000">
+    <name>해수부_부산_933</name>
+    <cmt>해양수산부 어초 수심:14.4m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:14.4m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.795146000" lon="128.671643000">
+    <name>해수부_동부_934</name>
+    <cmt>해양수산부 어초 수심:11.2m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:11.2m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.734400000" lon="128.678411000">
+    <name>해수부_동부_935</name>
+    <cmt>해양수산부 어초 수심:12.1m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:12.1m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.713047000" lon="128.670618000">
+    <name>해수부_동부_936</name>
+    <cmt>해양수산부 어초 수심:52m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:52m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.712176000" lon="128.709130000">
+    <name>해수부_동부_937</name>
+    <cmt>해양수산부 어초 수심:52m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:52m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.959970000" lon="128.729756000">
+    <name>해수부_부산_938</name>
+    <cmt>해양수산부 어초 수심:14.2m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:14.2m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.940399000" lon="128.739780000">
+    <name>해수부_부산_939</name>
+    <cmt>해양수산부 어초 수심:16.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:16.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.968758000" lon="128.737967000">
+    <name>해수부_부산_940</name>
+    <cmt>해양수산부 어초 수심:13.6m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:13.6m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.968275000" lon="128.713448000">
+    <name>해수부_부산_941</name>
+    <cmt>해양수산부 어초 수심:8.4m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:8.4m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.948658000" lon="128.733030000">
+    <name>해수부_부산_942</name>
+    <cmt>해양수산부 어초 수심:15.9m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:15.9m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.970081000" lon="128.744141000">
+    <name>해수부_부산_943</name>
+    <cmt>해양수산부 어초 수심:18.6m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:18.6m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.902353000" lon="128.747939000">
+    <name>해수부_부산_944</name>
+    <cmt>해양수산부 어초 수심:21.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:21.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.981534000" lon="128.750323000">
+    <name>해수부_부산_945</name>
+    <cmt>해양수산부 어초 수심:10.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:10.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.878179000" lon="128.744583000">
+    <name>해수부_부산_946</name>
+    <cmt>해양수산부 어초 수심:9.9m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:9.9m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.148013000" lon="128.596520000">
+    <name>해수부_울산_947</name>
+    <cmt>해양수산부 어초 수심:11.6m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:11.6m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.203510000" lon="128.588719000">
+    <name>해수부_울산_948</name>
+    <cmt>해양수산부 어초 수심:9.8m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:9.8m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.079304000" lon="128.998958000">
+    <name>해수부_울산_949</name>
+    <cmt>해양수산부 어초 수심:11.7m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:11.7m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.057654000" lon="128.988222000">
+    <name>해수부_울산_950</name>
+    <cmt>해양수산부 어초 수심:4.3m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:4.3m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.041980000" lon="128.984693000">
+    <name>해수부_울산_951</name>
+    <cmt>해양수산부 어초 수심:8.5m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:8.5m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.082622000" lon="128.995475000">
+    <name>해수부_울산_952</name>
+    <cmt>해양수산부 어초 수심:8.4m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:8.4m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.987080000" lon="128.972445000">
+    <name>해수부_부산_953</name>
+    <cmt>해양수산부 어초 수심:38m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:38m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.097800000" lon="129.130690000">
+    <name>해수부_울산_954</name>
+    <cmt>해양수산부 어초 수심:21.3m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:21.3m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.067268000" lon="129.031412000">
+    <name>해수부_울산_955</name>
+    <cmt>해양수산부 어초 수심:15.5m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:15.5m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.073776000" lon="129.040939000">
+    <name>해수부_울산_956</name>
+    <cmt>해양수산부 어초 수심:14.2m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:14.2m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.064997000" lon="129.025117000">
+    <name>해수부_울산_957</name>
+    <cmt>해양수산부 어초 수심:15.3m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:15.3m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.094553000" lon="129.132144000">
+    <name>해수부_울산_958</name>
+    <cmt>해양수산부 어초 수심:29.9m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:29.9m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.070883000" lon="129.045674000">
+    <name>해수부_울산_959</name>
+    <cmt>해양수산부 어초 수심:14.4m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:14.4m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.031398000" lon="129.023097000">
+    <name>해수부_울산_960</name>
+    <cmt>해양수산부 어초 수심:28m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:28m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.070073000" lon="129.091243000">
+    <name>해수부_울산_961</name>
+    <cmt>해양수산부 어초 수심:16.2m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:16.2m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.064006000" lon="129.093916000">
+    <name>해수부_울산_962</name>
+    <cmt>해양수산부 어초 수심:19m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:19m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.097972000" lon="129.142889000">
+    <name>해수부_울산_963</name>
+    <cmt>해양수산부 어초 수심:33m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:33m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.063592000" lon="129.091734000">
+    <name>해수부_울산_964</name>
+    <cmt>해양수산부 어초 수심:9m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:9m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.062286000" lon="129.043640000">
+    <name>해수부_울산_965</name>
+    <cmt>해양수산부 어초 수심:16.2m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:16.2m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.083161000" lon="129.004297000">
+    <name>해수부_울산_966</name>
+    <cmt>해양수산부 어초 수심:2.7m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:2.7m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.952411000" lon="129.022679000">
+    <name>해수부_부산_967</name>
+    <cmt>해양수산부 어초 수심:60.3m (해도:KR4G3F10)</cmt>
+    <desc>해양수산부 어초 수심:60.3m (해도:KR4G3F10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.720029000" lon="128.631195000">
+    <name>해수부_동부_968</name>
+    <cmt>해양수산부 어초 수심:1.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:1.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.711388000" lon="128.626621000">
+    <name>해수부_동부_969</name>
+    <cmt>해양수산부 어초 수심:14.8m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:14.8m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.720495000" lon="128.651615000">
+    <name>해수부_동부_970</name>
+    <cmt>해양수산부 어초 수심:24m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:24m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.776724000" lon="128.647386000">
+    <name>해수부_동부_971</name>
+    <cmt>해양수산부 어초 수심:2.3m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:2.3m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.770674000" lon="128.643552000">
+    <name>해수부_동부_972</name>
+    <cmt>해양수산부 어초 수심:9.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:9.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.765818000" lon="128.643246000">
+    <name>해수부_동부_973</name>
+    <cmt>해양수산부 어초 수심:13.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:13.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.006725000" lon="128.844556000">
+    <name>해수부_울산_974</name>
+    <cmt>해양수산부 어초 수심:16.3m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:16.3m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.023842000" lon="128.963981000">
+    <name>해수부_울산_975</name>
+    <cmt>해양수산부 어초 수심:10.8m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:10.8m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.042548000" lon="128.887789000">
+    <name>해수부_울산_976</name>
+    <cmt>해양수산부 어초 수심:5.2m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:5.2m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.039375000" lon="128.867222000">
+    <name>해수부_울산_977</name>
+    <cmt>해양수산부 어초 수심:6.3m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:6.3m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.949576000" lon="128.951791000">
+    <name>해수부_부산_978</name>
+    <cmt>해양수산부 어초 수심:42m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:42m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.733428000" lon="128.598830000">
+    <name>해수부_동부_979</name>
+    <cmt>해양수산부 어초 수심:6.2m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:6.2m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.688963000" lon="128.649440000">
+    <name>해수부_동부_980</name>
+    <cmt>해양수산부 어초 수심:44m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:44m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.694965000" lon="128.583144000">
+    <name>해수부_동부_981</name>
+    <cmt>해양수산부 어초 수심:64m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:64m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.752665000" lon="128.650604000">
+    <name>해수부_동부_982</name>
+    <cmt>해양수산부 어초 수심:19.9m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:19.9m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.766363000" lon="128.589963000">
+    <name>해수부_동부_983</name>
+    <cmt>해양수산부 어초 수심:4.2m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:4.2m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.892019000" lon="128.967391000">
+    <name>해수부_부산_984</name>
+    <cmt>해양수산부 어초 수심:62m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:62m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.889865000" lon="128.966053000">
+    <name>해수부_부산_985</name>
+    <cmt>해양수산부 어초 수심:63m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:63m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.762127000" lon="128.646914000">
+    <name>해수부_동부_986</name>
+    <cmt>해양수산부 어초 수심:16.3m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:16.3m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.992010000" lon="128.958085000">
+    <name>해수부_부산_987</name>
+    <cmt>해양수산부 어초 수심:34m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:34m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.983475000" lon="128.967365000">
+    <name>해수부_부산_988</name>
+    <cmt>해양수산부 어초 수심:35m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:35m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.955390000" lon="128.933435000">
+    <name>해수부_부산_989</name>
+    <cmt>해양수산부 어초 수심:38m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:38m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.761779000" lon="128.643671000">
+    <name>해수부_동부_990</name>
+    <cmt>해양수산부 어초 수심:11.2m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:11.2m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.917380000" lon="129.035646000">
+    <name>해수부_부산_991</name>
+    <cmt>해양수산부 어초 수심:73m (해도:KR4G3F10)</cmt>
+    <desc>해양수산부 어초 수심:73m (해도:KR4G3F10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.923391000" lon="128.052544000">
+    <name>해수부_부산_992</name>
+    <cmt>해양수산부 어초 수심:9.9m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:9.9m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.828677000" lon="128.045348000">
+    <name>해수부_부산_993</name>
+    <cmt>해양수산부 어초 수심:3.9m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:3.9m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.836008000" lon="128.125140000">
+    <name>해수부_부산_994</name>
+    <cmt>해양수산부 어초 수심:7.7m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:7.7m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.898956000" lon="128.203827000">
+    <name>해수부_부산_995</name>
+    <cmt>해양수산부 어초 수심:3.2m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:3.2m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.796120000" lon="128.054030000">
+    <name>해수부_동부_996</name>
+    <cmt>해양수산부 어초 수심:7.4m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:7.4m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.837242000" lon="128.160516000">
+    <name>해수부_부산_997</name>
+    <cmt>해양수산부 어초 수심:16.7m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:16.7m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.788611000" lon="128.139841000">
+    <name>해수부_동부_998</name>
+    <cmt>해양수산부 어초 수심:22.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:22.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.934171000" lon="128.037937000">
+    <name>해수부_부산_999</name>
+    <cmt>해양수산부 어초 수심:17.4m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:17.4m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.899103000" lon="128.103242000">
+    <name>해수부_부산_1000</name>
+    <cmt>해양수산부 어초 수심:10.8m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:10.8m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.839005000" lon="128.204329000">
+    <name>해수부_부산_1001</name>
+    <cmt>해양수산부 어초 수심:4.1m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:4.1m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.908659000" lon="128.065638000">
+    <name>해수부_부산_1002</name>
+    <cmt>해양수산부 어초 수심:8.8m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:8.8m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.894943000" lon="128.122031000">
+    <name>해수부_부산_1003</name>
+    <cmt>해양수산부 어초 수심:10.1m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:10.1m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.055234000" lon="128.546306000">
+    <name>해수부_울산_1004</name>
+    <cmt>해양수산부 어초 수심:11.5m (해도:KR4G3A40)</cmt>
+    <desc>해양수산부 어초 수심:11.5m (해도:KR4G3A40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.947747000" lon="128.511726000">
+    <name>해수부_부산_1005</name>
+    <cmt>해양수산부 어초 수심:11.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:11.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.991581000" lon="128.509919000">
+    <name>해수부_부산_1006</name>
+    <cmt>해양수산부 어초 수심:21.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:21.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.913171000" lon="128.552423000">
+    <name>해수부_부산_1007</name>
+    <cmt>해양수산부 어초 수심:11m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:11m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.977761000" lon="128.528277000">
+    <name>해수부_부산_1008</name>
+    <cmt>해양수산부 어초 수심:16.9m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:16.9m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.895879000" lon="128.487475000">
+    <name>해수부_부산_1009</name>
+    <cmt>해양수산부 어초 수심:5.2m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:5.2m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.892996000" lon="128.474596000">
+    <name>해수부_부산_1010</name>
+    <cmt>해양수산부 어초 수심:4.3m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:4.3m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.899209000" lon="128.478367000">
+    <name>해수부_부산_1011</name>
+    <cmt>해양수산부 어초 수심:6.6m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6.6m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.811275000" lon="128.462680000">
+    <name>해수부_부산_1012</name>
+    <cmt>해양수산부 어초 수심:13.9m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:13.9m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.739649000" lon="128.424837000">
+    <name>해수부_동부_1013</name>
+    <cmt>해양수산부 어초 수심:23m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:23m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.786508000" lon="128.386945000">
+    <name>해수부_동부_1014</name>
+    <cmt>해양수산부 어초 수심:6.7m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6.7m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.788739000" lon="128.375875000">
+    <name>해수부_동부_1015</name>
+    <cmt>해양수산부 어초 수심:3m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:3m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.914862000" lon="128.447222000">
+    <name>해수부_부산_1016</name>
+    <cmt>해양수산부 어초 수심:6m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.810899000" lon="128.342153000">
+    <name>해수부_부산_1017</name>
+    <cmt>해양수산부 어초 수심:10.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:10.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.898607000" lon="128.426569000">
+    <name>해수부_부산_1018</name>
+    <cmt>해양수산부 어초 수심:6.6m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6.6m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.914390000" lon="128.442567000">
+    <name>해수부_부산_1019</name>
+    <cmt>해양수산부 어초 수심:5.9m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:5.9m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.767758000" lon="128.456134000">
+    <name>해수부_동부_1020</name>
+    <cmt>해양수산부 어초 수심:16.7m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:16.7m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.902691000" lon="128.473475000">
+    <name>해수부_부산_1021</name>
+    <cmt>해양수산부 어초 수심:6.2m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6.2m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.883248000" lon="128.428657000">
+    <name>해수부_부산_1022</name>
+    <cmt>해양수산부 어초 수심:6.3m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6.3m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.880724000" lon="128.335908000">
+    <name>해수부_부산_1023</name>
+    <cmt>해양수산부 어초 수심:4.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:4.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.751524000" lon="128.490482000">
+    <name>해수부_동부_1024</name>
+    <cmt>해양수산부 어초 수심:27.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:27.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.773534000" lon="128.454358000">
+    <name>해수부_동부_1025</name>
+    <cmt>해양수산부 어초 수심:15.9m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:15.9m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.763934000" lon="128.394425000">
+    <name>해수부_동부_1026</name>
+    <cmt>해양수산부 어초 수심:26m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:26m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.785635000" lon="128.435493000">
+    <name>해수부_동부_1027</name>
+    <cmt>해양수산부 어초 수심:9.7m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:9.7m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.739778000" lon="128.401639000">
+    <name>해수부_동부_1028</name>
+    <cmt>해양수산부 어초 수심:0.4m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:0.4m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.749359000" lon="128.375206000">
+    <name>해수부_동부_1029</name>
+    <cmt>해양수산부 어초 수심:40m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:40m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.739384000" lon="128.375408000">
+    <name>해수부_동부_1030</name>
+    <cmt>해양수산부 어초 수심:52m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:52m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.806124000" lon="128.367798000">
+    <name>해수부_부산_1031</name>
+    <cmt>해양수산부 어초 수심:8.8m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:8.8m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.738064000" lon="128.392576000">
+    <name>해수부_동부_1032</name>
+    <cmt>해양수산부 어초 수심:0.6m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:0.6m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.847665000" lon="128.465914000">
+    <name>해수부_부산_1033</name>
+    <cmt>해양수산부 어초 수심:8.1m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:8.1m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.803282000" lon="128.478407000">
+    <name>해수부_부산_1034</name>
+    <cmt>해양수산부 어초 수심:3.8m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:3.8m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.762020000" lon="128.498127000">
+    <name>해수부_동부_1035</name>
+    <cmt>해양수산부 어초 수심:1.1m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:1.1m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.836732000" lon="128.427793000">
+    <name>해수부_부산_1036</name>
+    <cmt>해양수산부 어초 수심:6.1m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6.1m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.716043000" lon="128.023986000">
+    <name>해수부_동부_1037</name>
+    <cmt>해양수산부 어초 수심:1.3m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:1.3m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.748015000" lon="128.535224000">
+    <name>해수부_동부_1038</name>
+    <cmt>해양수산부 어초 수심:21.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:21.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.712619000" lon="128.547061000">
+    <name>해수부_동부_1039</name>
+    <cmt>해양수산부 어초 수심:25.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:25.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.725422000" lon="128.501669000">
+    <name>해수부_동부_1040</name>
+    <cmt>해양수산부 어초 수심:15.4m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:15.4m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.728675000" lon="128.504186000">
+    <name>해수부_동부_1041</name>
+    <cmt>해양수산부 어초 수심:9.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:9.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.757359000" lon="128.576483000">
+    <name>해수부_동부_1042</name>
+    <cmt>해양수산부 어초 수심:7.2m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:7.2m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.809593000" lon="128.549855000">
+    <name>해수부_부산_1043</name>
+    <cmt>해양수산부 어초 수심:4.9m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:4.9m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.752207000" lon="128.572898000">
+    <name>해수부_동부_1044</name>
+    <cmt>해양수산부 어초 수심:18m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:18m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.820081000" lon="128.578204000">
+    <name>해수부_부산_1045</name>
+    <cmt>해양수산부 어초 수심:5.1m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:5.1m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.711033000" lon="128.551335000">
+    <name>해수부_동부_1046</name>
+    <cmt>해양수산부 어초 수심:25.3m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:25.3m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.834400000" lon="128.579817000">
+    <name>해수부_부산_1047</name>
+    <cmt>해양수산부 어초 수심:3.8m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:3.8m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.756707000" lon="128.519518000">
+    <name>해수부_동부_1048</name>
+    <cmt>해양수산부 어초 수심:0.4m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:0.4m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.838899000" lon="128.242734000">
+    <name>해수부_부산_1049</name>
+    <cmt>해양수산부 어초 수심:13.9m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:13.9m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.710062000" lon="128.470146000">
+    <name>해수부_동부_1050</name>
+    <cmt>해양수산부 어초 수심:24.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:24.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.703006000" lon="128.034251000">
+    <name>해수부_동부_1051</name>
+    <cmt>해양수산부 어초 수심:4.7m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:4.7m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.829625000" lon="128.250657000">
+    <name>해수부_부산_1052</name>
+    <cmt>해양수산부 어초 수심:9.4m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:9.4m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.807560000" lon="128.254439000">
+    <name>해수부_부산_1053</name>
+    <cmt>해양수산부 어초 수심:6m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.901219000" lon="128.293175000">
+    <name>해수부_부산_1054</name>
+    <cmt>해양수산부 어초 수심:6.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.706467000" lon="128.035031000">
+    <name>해수부_동부_1055</name>
+    <cmt>해양수산부 어초 수심:4.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:4.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.857216000" lon="128.220698000">
+    <name>해수부_부산_1056</name>
+    <cmt>해양수산부 어초 수심:9.2m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:9.2m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.679642000" lon="128.232905000">
+    <name>해수부_동부_1057</name>
+    <cmt>해양수산부 어초 수심:24m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:24m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.771068000" lon="128.054147000">
+    <name>해수부_동부_1058</name>
+    <cmt>해양수산부 어초 수심:1m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:1m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.805056000" lon="128.244611000">
+    <name>해수부_부산_1059</name>
+    <cmt>해양수산부 어초 수심:1.9m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:1.9m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.879998000" lon="128.324657000">
+    <name>해수부_부산_1060</name>
+    <cmt>해양수산부 어초 수심:4.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:4.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.867552000" lon="128.239352000">
+    <name>해수부_부산_1061</name>
+    <cmt>해양수산부 어초 수심:5.6m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:5.6m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.760425000" lon="128.091875000">
+    <name>해수부_동부_1062</name>
+    <cmt>해양수산부 어초 수심:18.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:18.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.699338000" lon="128.033381000">
+    <name>해수부_동부_1063</name>
+    <cmt>해양수산부 어초 수심:9.9m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:9.9m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.758350000" lon="128.084675000">
+    <name>해수부_동부_1064</name>
+    <cmt>해양수산부 어초 수심:19.2m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:19.2m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.900890000" lon="128.286790000">
+    <name>해수부_부산_1065</name>
+    <cmt>해양수산부 어초 수심:7.7m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:7.7m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.879023000" lon="128.284998000">
+    <name>해수부_부산_1066</name>
+    <cmt>해양수산부 어초 수심:7.8m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:7.8m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.852864000" lon="128.212459000">
+    <name>해수부_부산_1067</name>
+    <cmt>해양수산부 어초 수심:5.2m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:5.2m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.835773000" lon="128.278557000">
+    <name>해수부_부산_1068</name>
+    <cmt>해양수산부 어초 수심:6.7m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:6.7m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.658239000" lon="128.199193000">
+    <name>해수부_동부_1069</name>
+    <cmt>해양수산부 어초 수심:36m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:36m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.662826000" lon="128.240885000">
+    <name>해수부_동부_1070</name>
+    <cmt>해양수산부 어초 수심:46m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:46m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.664412000" lon="128.226112000">
+    <name>해수부_동부_1071</name>
+    <cmt>해양수산부 어초 수심:39m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:39m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.721409000" lon="128.409868000">
+    <name>해수부_동부_1072</name>
+    <cmt>해양수산부 어초 수심:45m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:45m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.658069000" lon="128.254743000">
+    <name>해수부_동부_1073</name>
+    <cmt>해양수산부 어초 수심:40m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:40m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.732675000" lon="128.380957000">
+    <name>해수부_동부_1074</name>
+    <cmt>해양수산부 어초 수심:41m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:41m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.698264000" lon="128.294792000">
+    <name>해수부_동부_1075</name>
+    <cmt>해양수산부 어초 수심:49m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:49m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.690298000" lon="128.260711000">
+    <name>해수부_동부_1076</name>
+    <cmt>해양수산부 어초 수심:43m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:43m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.688471000" lon="128.392686000">
+    <name>해수부_동부_1077</name>
+    <cmt>해양수산부 어초 수심:47m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:47m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.660897000" lon="128.200155000">
+    <name>해수부_동부_1078</name>
+    <cmt>해양수산부 어초 수심:41m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:41m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.714717000" lon="128.189753000">
+    <name>해수부_동부_1079</name>
+    <cmt>해양수산부 어초 수심:31m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:31m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.729405000" lon="128.380087000">
+    <name>해수부_동부_1080</name>
+    <cmt>해양수산부 어초 수심:54m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:54m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.719768000" lon="128.432068000">
+    <name>해수부_동부_1081</name>
+    <cmt>해양수산부 어초 수심:34m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:34m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.700351000" lon="128.445749000">
+    <name>해수부_동부_1082</name>
+    <cmt>해양수산부 어초 수심:56m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:56m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.667728000" lon="128.319221000">
+    <name>해수부_동부_1083</name>
+    <cmt>해양수산부 어초 수심:38m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:38m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.985929000" lon="128.457368000">
+    <name>해수부_부산_1084</name>
+    <cmt>해양수산부 어초 수심:16.1m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:16.1m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.976918000" lon="128.471449000">
+    <name>해수부_부산_1085</name>
+    <cmt>해양수산부 어초 수심:19.8m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:19.8m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.691824000" lon="128.477401000">
+    <name>해수부_동부_1086</name>
+    <cmt>해양수산부 어초 수심:44m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:44m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.190669000" lon="128.408320000">
+    <name>해수부_동부_1423</name>
+    <cmt>해양수산부 어초 수심:77m (해도:KR4G3E30)</cmt>
+    <desc>해양수산부 어초 수심:77m (해도:KR4G3E30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.454670000" lon="127.809754000">
+    <name>해수부_고흥_완도_1424</name>
+    <cmt>해양수산부 어초 수심:19.8m (해도:KR4F4H40)</cmt>
+    <desc>해양수산부 어초 수심:19.8m (해도:KR4F4H40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.443047000" lon="127.791675000">
+    <name>해수부_고흥_완도_1425</name>
+    <cmt>해양수산부 어초 수심:14.5m (해도:KR4F4H40)</cmt>
+    <desc>해양수산부 어초 수심:14.5m (해도:KR4F4H40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.498533000" lon="127.753361000">
+    <name>해수부_고흥_완도_1426</name>
+    <cmt>해양수산부 어초 수심:14.5m (해도:KR4F4H40)</cmt>
+    <desc>해양수산부 어초 수심:14.5m (해도:KR4F4H40)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.500354000" lon="127.823774000">
+    <name>해수부_남해_여수_1432</name>
+    <cmt>해양수산부 어초 수심:17.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:17.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.509979000" lon="127.732540000">
+    <name>해수부_남해_여수_1433</name>
+    <cmt>해양수산부 어초 수심:13.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:13.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.503606000" lon="127.729444000">
+    <name>해수부_남해_여수_1434</name>
+    <cmt>해양수산부 어초 수심:21.5m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:21.5m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.504342000" lon="127.799685000">
+    <name>해수부_남해_여수_1435</name>
+    <cmt>해양수산부 어초 수심:10.2m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:10.2m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.514965000" lon="127.792318000">
+    <name>해수부_남해_여수_1436</name>
+    <cmt>해양수산부 어초 수심:16.9m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:16.9m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.505674000" lon="127.806512000">
+    <name>해수부_남해_여수_1437</name>
+    <cmt>해양수산부 어초 수심:22.5m (해도:KR4F4H20)</cmt>
+    <desc>해양수산부 어초 수심:22.5m (해도:KR4F4H20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.686278000" lon="128.630343000">
+    <name>해수부_동부_1442</name>
+    <cmt>해양수산부 어초 수심:29.5m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:29.5m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.686470000" lon="128.637700000">
+    <name>해수부_동부_1443</name>
+    <cmt>해양수산부 어초 수심:27.7m (해도:KR4G3E20)</cmt>
+    <desc>해양수산부 어초 수심:27.7m (해도:KR4G3E20)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.618231000" lon="128.282330000">
+    <name>해수부_동부_1471</name>
+    <cmt>해양수산부 어초 수심:27m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:27m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.616779000" lon="128.296295000">
+    <name>해수부_동부_1472</name>
+    <cmt>해양수산부 어초 수심:22.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:22.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.642159000" lon="128.231937000">
+    <name>해수부_동부_1473</name>
+    <cmt>해양수산부 어초 수심:19.5m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:19.5m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.629166000" lon="128.208007000">
+    <name>해수부_동부_1474</name>
+    <cmt>해양수산부 어초 수심:39m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:39m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.550528000" lon="128.365179000">
+    <name>해수부_동부_1475</name>
+    <cmt>해양수산부 어초 수심:46m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:46m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.574077000" lon="128.352410000">
+    <name>해수부_동부_1476</name>
+    <cmt>해양수산부 어초 수심:34m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:34m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.641770000" lon="128.197710000">
+    <name>해수부_동부_1477</name>
+    <cmt>해양수산부 어초 수심:35m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:35m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.610082000" lon="128.364892000">
+    <name>해수부_동부_1478</name>
+    <cmt>해양수산부 어초 수심:44m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:44m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.557327000" lon="128.195917000">
+    <name>해수부_동부_1479</name>
+    <cmt>해양수산부 어초 수심:42m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:42m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.615564000" lon="128.367617000">
+    <name>해수부_동부_1480</name>
+    <cmt>해양수산부 어초 수심:43m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:43m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.642276000" lon="128.207891000">
+    <name>해수부_동부_1481</name>
+    <cmt>해양수산부 어초 수심:37m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:37m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.599922000" lon="128.332483000">
+    <name>해수부_동부_1482</name>
+    <cmt>해양수산부 어초 수심:43m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:43m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.599874000" lon="128.357527000">
+    <name>해수부_동부_1483</name>
+    <cmt>해양수산부 어초 수심:45m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:45m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.649168000" lon="128.383118000">
+    <name>해수부_동부_1484</name>
+    <cmt>해양수산부 어초 수심:40m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:40m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.644647000" lon="128.390428000">
+    <name>해수부_동부_1485</name>
+    <cmt>해양수산부 어초 수심:35m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:35m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.649499000" lon="128.454163000">
+    <name>해수부_동부_1486</name>
+    <cmt>해양수산부 어초 수심:50m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:50m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.585053000" lon="128.374801000">
+    <name>해수부_동부_1487</name>
+    <cmt>해양수산부 어초 수심:51m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:51m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.598885000" lon="128.369001000">
+    <name>해수부_동부_1488</name>
+    <cmt>해양수산부 어초 수심:47m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:47m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.638904000" lon="128.465109000">
+    <name>해수부_동부_1489</name>
+    <cmt>해양수산부 어초 수심:33m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:33m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.648950000" lon="128.388785000">
+    <name>해수부_동부_1490</name>
+    <cmt>해양수산부 어초 수심:35m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:35m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.561658000" lon="128.370622000">
+    <name>해수부_동부_1491</name>
+    <cmt>해양수산부 어초 수심:36m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:36m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.632998000" lon="128.199554000">
+    <name>해수부_동부_1492</name>
+    <cmt>해양수산부 어초 수심:36m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:36m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.615246000" lon="128.356534000">
+    <name>해수부_동부_1493</name>
+    <cmt>해양수산부 어초 수심:42m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:42m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.570614000" lon="128.367428000">
+    <name>해수부_동부_1494</name>
+    <cmt>해양수산부 어초 수심:36m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:36m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.613138000" lon="128.226441000">
+    <name>해수부_동부_1495</name>
+    <cmt>해양수산부 어초 수심:49m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:49m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.590227000" lon="128.351926000">
+    <name>해수부_동부_1496</name>
+    <cmt>해양수산부 어초 수심:58m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:58m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.616127000" lon="128.398618000">
+    <name>해수부_동부_1497</name>
+    <cmt>해양수산부 어초 수심:44m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:44m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.635500000" lon="128.474996000">
+    <name>해수부_동부_1498</name>
+    <cmt>해양수산부 어초 수심:46m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:46m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.621538000" lon="128.392006000">
+    <name>해수부_동부_1499</name>
+    <cmt>해양수산부 어초 수심:44m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:44m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.604459000" lon="128.431271000">
+    <name>해수부_동부_1500</name>
+    <cmt>해양수산부 어초 수심:44m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:44m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.580931000" lon="128.440168000">
+    <name>해수부_동부_1501</name>
+    <cmt>해양수산부 어초 수심:45m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:45m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.639322000" lon="128.385452000">
+    <name>해수부_동부_1502</name>
+    <cmt>해양수산부 어초 수심:30m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:30m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="34.570678000" lon="128.382879000">
+    <name>해수부_동부_1503</name>
+    <cmt>해양수산부 어초 수심:38m (해도:KR4G3E10)</cmt>
+    <desc>해양수산부 어초 수심:38m (해도:KR4G3E10)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.033307000" lon="129.240502000">
+    <name>해수부_울산_1579</name>
+    <cmt>해양수산부 어초 수심:93m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:93m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+  <wpt lat="35.052969000" lon="129.301814000">
+    <name>해수부_울산_1580</name>
+    <cmt>해양수산부 어초 수심:98m (해도:KR4G3B30)</cmt>
+    <desc>해양수산부 어초 수심:98m (해도:KR4G3B30)</desc>
+    <sym>Fish</sym>
+  </wpt>
+</gpx>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Claude GPX Extractor" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>내가 찍은 포인트</name>
+    <desc>어탐기에서 직접 찍은 좌표만 추출</desc>
+    <time>2025-12-14T12:25:43Z</time>
+  </metadata>
+  <wpt lat="36.812666951" lon="126.140397167">
+    <time>2025-11-15T14:27:30Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>001</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.813980269" lon="126.142199842">
+    <time>2025-11-15T14:58:16Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>002</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.814153452" lon="126.140766716">
+    <time>2025-11-15T15:30:53Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>003</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.814081293" lon="126.140631515">
+    <time>2025-11-15T15:35:58Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>004</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.813431853" lon="126.140901916">
+    <time>2025-11-15T15:46:06Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>005</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.823750073" lon="126.152583248">
+    <time>2025-11-15T18:23:05Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>006</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.823699568" lon="126.152646341">
+    <time>2025-11-15T18:24:11Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>007</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.822415277" lon="126.153304318">
+    <time>2025-11-15T18:33:01Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>008</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.822213252" lon="126.154133548">
+    <time>2025-11-15T20:06:00Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>009</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.822198821" lon="126.153962294">
+    <time>2025-11-15T20:21:50Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>010</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.82233591" lon="126.153935254">
+    <time>2025-11-15T20:53:31Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>011</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.814853397" lon="126.141217384">
+    <time>2025-11-22T14:57:47Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>012</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.817234604" lon="126.147229304">
+    <time>2025-11-22T15:46:54Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>013</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.822653377" lon="126.153583732">
+    <time>2025-11-22T16:11:44Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>014</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.822516289" lon="126.153466558">
+    <time>2025-11-22T17:01:18Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>015</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.827747107" lon="126.154764484">
+    <time>2025-11-22T17:59:32Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>016</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.827934689" lon="126.154449016">
+    <time>2025-11-22T18:10:53Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>017</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.829680616" lon="126.154467043">
+    <time>2025-11-22T18:20:05Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>018</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.821982365" lon="126.152303833">
+    <time>2025-11-22T20:16:12Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>019</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.823136791" lon="126.153881173">
+    <time>2025-11-22T20:44:57Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>020</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="36.823663492" lon="126.153502612">
+    <time>2025-11-22T21:16:10Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>021</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.846630053" lon="128.904501217">
+    <time>2025-11-29T14:52:31Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>022</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.852565778" lon="128.906096584">
+    <time>2025-11-29T15:35:01Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>023</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.863830955" lon="128.911035913">
+    <time>2025-11-29T16:14:59Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>024</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.867018766" lon="128.910513137">
+    <time>2025-11-29T16:26:57Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>025</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.873913358" lon="128.906781601">
+    <time>2025-11-29T16:57:11Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>026</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.874084114" lon="128.906682454">
+    <time>2025-11-29T16:57:56Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>027</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.874468313" lon="128.906430079">
+    <time>2025-11-29T16:59:48Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>028</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.874631952" lon="128.906312905">
+    <time>2025-11-29T17:00:38Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>029</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.876268329" lon="128.9050961">
+    <time>2025-11-29T17:08:24Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>030</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.877363969" lon="128.904519244">
+    <time>2025-11-29T17:13:13Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>031</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.878303077" lon="128.903879295">
+    <time>2025-11-29T17:17:39Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>032</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.878416907" lon="128.903798174">
+    <time>2025-11-29T17:18:26Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>033</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.864997937" lon="128.902914864">
+    <time>2025-11-29T20:30:50Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>034</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.86339689" lon="128.9021307">
+    <time>2025-11-29T20:43:25Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>035</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.861482703" lon="128.902383075">
+    <time>2025-11-29T21:01:20Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>036</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.848202995" lon="128.894703681">
+    <time>2025-11-29T21:44:33Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>037</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.847996593" lon="128.894469333">
+    <time>2025-11-29T21:44:49Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>038</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.846302648" lon="128.892234017">
+    <time>2025-11-29T21:50:32Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>039</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.84471543" lon="128.890530489">
+    <time>2025-11-29T21:52:37Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>040</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="37.844153134" lon="128.889935607">
+    <time>2025-11-29T21:53:20Z</time>
+    <name></name>
+    <cmt></cmt>
+    <desc>041</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>
